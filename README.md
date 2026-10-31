@@ -14,10 +14,13 @@ A structured compilation of optimized data structure implementations and algorit
 
 ## 📊 Daily Progression Tracker
 
-| Date | Topic Area | Problem Statement / Concept | Source | Source Code |
+| Topic Area | Problem Statement / Concept | Language | Source | Source Code Links |
 | :--- | :--- | :--- | :--- | :--- |
-| --/--/-- | Arrays | Two Sum Problem | LeetCode | [View Code](./01-Arrays/) |
-| --/--/-- | Sorting | Merge Sort Implementation | Coursework | [View Code](./05-Searching-Sorting/) |
+| **Arrays** | Two Sum Problem | Java | LeetCode | [📂 View Code](./01-Arrays/) |
+| **Strings** | Substring Evaluation & Manipulation | Java | Coursework | [📂 View Code](./02-Strings/) |
+| **Linked Lists** | Singly Linked List Architecture | Java | Coursework | [📂 View Code](./03-Linked-Lists/) |
+| **Stacks & Queues** | Array-Backed LIFO/FIFO Engines | Java | Coursework | [📂 View Code](./04-Stacks-Queues/) |
+| **Searching & Sorting** | Merge Sort Implementation | Java | Coursework | [📂 View Code](./05-Searching-Sorting/) |
 
 ## 🛠️ Environment Configuration
 * **Language Environment:** Java SE 17 / 21
