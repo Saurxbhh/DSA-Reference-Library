@@ -40,6 +40,7 @@ Click on any module below to expand the full collection of optimized source code
 
 | Problem Statement / Concept | Source | Source Code Links |
 | :--- | :--- | :--- |
+| String Reversal Mechanics | Coursework | [📂 View Code](./02-Strings/StringReverse.java) |
 | Palindrome Check Verification | Coursework | [📂 View Code](./02-Strings/PalindromeCheck.java) |
 | Duplicate Character Finder | Coursework | [📂 View Code](./02-Strings/DuplicateCharacters.java) |
 | Anagram Sequence Verification | LeetCode | [📂 View Code](./02-Strings/AnagramCheck.java) |
@@ -104,6 +105,7 @@ Click on any module below to expand the full collection of optimized source code
 | Smaller Sum Triplet Array Counters| Coursework | [📂 View Code](./05-Searching-Sorting/CountTriplets.java) |
 
 </details>
+
 ## 🛠️ Environment Configuration
 * **Language Environment:** Java SE 17 / 21
 * **Development IDE:** IntelliJ IDEA / Visual Studio Code
